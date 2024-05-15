@@ -12,7 +12,7 @@ TO-DO LIST
    
 Enter your choice: 1
 
-Enter task description: DLD
+Enter task description: Buy groceries
 
 Enter task priority (low/medium/high): high
 
@@ -33,7 +33,7 @@ Task added successfully!
 
 Enter your choice: 3
 
-Enter task description to mark as completed: DLD
+Enter task description to mark as completed: Buy groceries
 
 Task marked as completed!
 
@@ -52,7 +52,7 @@ Task marked as completed!
    
 Enter your choice: 4
 
-✓ t DLD(Priority: high, Due: 17-07-2024)
+✓ Buy groceries (Priority: high, Due: 17-07-2024)
 
 ========================================================================================================================================================================================
 
@@ -69,6 +69,6 @@ Enter your choice: 4
    
 Enter your choice: 2
 
-Enter task description to remove: DLD
+Enter task description to remove:Buy groceries
 
 Task removed successfully!
