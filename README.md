@@ -1,6 +1,8 @@
 # Coding-Raja-Technologies-Internship
-TO-DO LIST
+TO-DO LIST                                                    
+
 1)FOR TASK ADDING
+
 ------------To-Do List---------------
 1. Add Task
 2. Remove Task
@@ -15,6 +17,7 @@ Task added successfully!
 
 
 2)TO MARK AS COMPLETED:
+
 ------------To-Do List---------------
 1. Add Task
 2. Remove Task
@@ -27,6 +30,7 @@ Task marked as completed!
 
 
 3)DISPLAYING TASKS:
+
 ------------To-Do List---------------
 1. Add Task
 2. Remove Task
@@ -38,6 +42,7 @@ Enter your choice: 4
 
 
 4)TO REMOVE TASKS:
+
 ------------To-Do List---------------
 1. Add Task
 2. Remove Task
