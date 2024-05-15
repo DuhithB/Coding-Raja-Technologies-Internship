@@ -11,9 +11,13 @@ TO-DO LIST
 5. Exit
    
 Enter your choice: 1
+
 Enter task description: DLD
+
 Enter task priority (low/medium/high): high
+
 Enter due date (DD-MM-YYYY): 17-07-2024
+
 Task added successfully!
 
 
@@ -27,7 +31,9 @@ Task added successfully!
 5. Exit
 
 Enter your choice: 3
+
 Enter task description to mark as completed: DLD
+
 Task marked as completed!
 
 
@@ -41,6 +47,7 @@ Task marked as completed!
 5. Exit
    
 Enter your choice: 4
+
 ✓ t DLD(Priority: high, Due: 17-07-2024)
 
 
@@ -54,5 +61,7 @@ Enter your choice: 4
 5. Exit
    
 Enter your choice: 2
+
 Enter task description to remove: DLD
+
 Task removed successfully!
