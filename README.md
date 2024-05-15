@@ -21,6 +21,8 @@ Enter due date (DD-MM-YYYY): 17-07-2024
 Task added successfully!
 
 
+
+
 2)TO MARK AS COMPLETED:
 
 ------------To-Do List---------------
@@ -37,6 +39,8 @@ Enter task description to mark as completed: DLD
 Task marked as completed!
 
 
+
+
 3)DISPLAYING TASKS:
 
 ------------To-Do List---------------
@@ -49,6 +53,8 @@ Task marked as completed!
 Enter your choice: 4
 
 ✓ t DLD(Priority: high, Due: 17-07-2024)
+
+
 
 
 4)TO REMOVE TASKS:
