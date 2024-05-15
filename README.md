@@ -9,6 +9,7 @@ TO-DO LIST
 3. Mark Task as Completed
 4. Display Tasks
 5. Exit
+   
 Enter your choice: 1
 Enter task description: DLD
 Enter task priority (low/medium/high): high
@@ -24,6 +25,7 @@ Task added successfully!
 3. Mark Task as Completed
 4. Display Tasks
 5. Exit
+
 Enter your choice: 3
 Enter task description to mark as completed: DLD
 Task marked as completed!
@@ -37,6 +39,7 @@ Task marked as completed!
 3. Mark Task as Completed
 4. Display Tasks
 5. Exit
+   
 Enter your choice: 4
 ✓ t DLD(Priority: high, Due: 17-07-2024)
 
@@ -49,6 +52,7 @@ Enter your choice: 4
 3. Mark Task as Completed
 4. Display Tasks
 5. Exit
+   
 Enter your choice: 2
 Enter task description to remove: DLD
 Task removed successfully!
